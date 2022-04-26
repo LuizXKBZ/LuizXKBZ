@@ -1,8 +1,5 @@
 # sobre mim
-- 
-## editando o perfil
-- 
--  
+## editando o perfil 
 - 👋 Hi, I’m @LuizXKBZ
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
